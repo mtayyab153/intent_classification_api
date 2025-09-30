@@ -17,7 +17,7 @@ A FastAPI-based service for classifying text queries into intents using a traine
 
 ### 1. Clone Repository  
 ```bash
-git clone https://github.com/your-username/intent-classifier-app.git
+git clone https://github.com/mtayyab153/intent_classification_api.git
 cd intent-classifier-app
 ```
 
